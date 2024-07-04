@@ -2,6 +2,7 @@
 layout: post
 title:  "BLOG: About Resnet and BatchNorm"
 date:   2024-06-22 18:08:39 +00:00
+categories:  [Blog]
 image: /images/resnet BN.jpg
 author: "Zhang Jiayuan"
 ---
