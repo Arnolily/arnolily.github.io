@@ -3,8 +3,9 @@ layout: post
 title:  "About Resnet and BatchNorm"
 date:   2024-06-22 18:08:39 +00:00
 categories:  [Blog]
-image: /images/resnet BN.png
+image: /images/resnet-BN.png
 author: "Zhang Jiayuan"
+website: https://arnolily.github.io/Note/Resnet%20%26%20Batch%20Norms/
 ---
 My first Blog! I recorded my knowledge of Resnet and BatchNorm, mainly about why they work. 
 
