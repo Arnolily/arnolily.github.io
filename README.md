@@ -1,1 +1,1 @@
-This is my personal website at arnolily.github.io. Source code stolen from Jon Barron's public academic website: https://jonbarron.info/. 
+This is my personal website at https://arnolily.github.io. Source code stolen from Jon Barron's public academic website: https://jonbarron.info/. 
